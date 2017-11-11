@@ -31,14 +31,9 @@ Stakeholders of our Product
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The only three things worth doing at a startup:<br>-Make the product better<br>-Sell the product better<br>-Create leverage for either of first two</p>&mdash; Sam Gerstenzang (@gerstenzang) <a href="https://twitter.com/gerstenzang/status/919713909292052482?ref_src=twsrc%5Etfw">October 15, 2017</a></blockquote>
 
-/*
-The output of the task should be two documents
+### Task
 
-1) A comparison document detailing features, not limited to but including ,the above facets of comparison.
-2) A list of new features/improvements that Artoo should build to stay competitive. Include block diagram level architecture details, and UX screenshots for new features as applicable.
-*/
-
-Do a short 2-3 page spec for an improvement that you would make to that product. Your spec should be written in short paragraphs and bullet points. Wireframes and diagrams may be helpful, but are not required.
+Do a short 2-3 page spec for an improvement(s) on Mobile and Web that you would make to that product that addresses all three stakeholders and makes Artoo competitive. Your spec should be written in short paragraphs and bullet points. Include block diagram level architecture details, and UX screenshots, Wireframes and diagrams.
 
 We recommend that you follow the outline below, or something similar:
 1. Background
