@@ -26,7 +26,10 @@ Stakeholders of our Product
 * Lender (Bank or MFI)
   * Generally averse to this segment. Too expensive. Too high-touch. Too risky
   * Realizes that their traditional approach doesn't work. Need a partner like Artoo to help them develop product, policy and process. But find it hard to commit to that. Needs evidence, back-testing of policy etc
-  
+
+### A recent tweet that makes a lot sense:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The only three things worth doing at a startup:<br>-Make the product better<br>-Sell the product better<br>-Create leverage for either of first two</p>&mdash; Sam Gerstenzang (@gerstenzang) <a href="https://twitter.com/gerstenzang/status/919713909292052482?ref_src=twsrc%5Etfw">October 15, 2017</a></blockquote>
 
 /*
 The output of the task should be two documents
