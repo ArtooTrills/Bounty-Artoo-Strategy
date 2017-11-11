@@ -5,10 +5,12 @@ Artoo is at an exciting place. We are making 6 Crs of revenue and have different
 Look through the current product of Artoo:
 
 1) Mobile from demo.demo.artoo.in (ask for a pre-installed version from Artoo)
+   * Application -- Kathirvel N, Rajesh Singh
 
 2) Web 
    * http://efl.demo.artoo.in/branch-manager#/j2vmu3nk/j2vmu3nk-home
    * http://demo.demo.artoo.in/cluster-credit-manager#/j2vmu3nk/apps?context=1000&stage=provisional-approval-ccm
+      * Amit Pithava
    * http://demo.demo.artoo.in/admin#/d3pgzadk/org/roles
    
    
