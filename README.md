@@ -1,11 +1,20 @@
-# Artoo Strategy
+# Let's create leverage
 
-Artoo is at an exciting place. We are making 6 Crs of revenue and have differentiated ourselves. While the market is here, we feel the next wave is starting. Like round 1, we need to out think our competitors in all possible dimensions. 
+I came across this tweet recently and thought it was the perfect articulation of what a startup needs to do but more importantly the specific objective of a good product manager:
 
-Look through the current product of Artoo:
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The only three things worth doing at a startup:<br>-Make the product better<br>-Sell the product better<br>-Create leverage for either of first two</p>&mdash; Sam Gerstenzang (@gerstenzang) <a href="https://twitter.com/gerstenzang/status/919713909292052482?ref_src=twsrc%5Etfw">October 15, 2017</a></blockquote>
+
+Artoo is at an exciting place. We are making 6 Crs of revenue and have differentiated ourselves. While we have found our product-market fit, we feel the next wave is starting shortly. Like round 1, we need to out think our competitors in all possible dimensions. 
+
+Look through the current product of Artoo -- feel free to click around:
 
 1) Mobile from demo.demo.artoo.in (ask for a pre-installed version from Artoo)
-   * Application -- Kathirvel N, Rajesh Singh
+  * Tasks
+  * Lead
+  * Application -- Kathirvel N, Rajesh Singh
+  * Performance
+  * Entities
+  * EMI Calculator
 
 2) Web 
    * http://demo.demo.artoo.in/branch-manager#/j2vmu3nk/j2vmu3nk-home
@@ -13,17 +22,24 @@ Look through the current product of Artoo:
       * Amit Pithava
    * http://demo.demo.artoo.in/admin#/d3pgzadk/org/roles
    
-   
-Stakeholders of our Product
+### Stakeholders of our Product
 
 * Borrower
   * Hetrogeneous customer segment with having absolutely no data (Credit Bureau history, Bank Statements, Collateral) to having some data and being tech savvy. They want to be treated with respect and have big aspirations for themselves. They want a quick and easy process with transparency of whether they are getting a loan at every stage or not.
 
-* User (Field Agent / Feet on street, Credit Approver)
-  * Simple 10-12th guy. Well trained in the process to giving out a loan.
-  * Works 8 hours on the ground, roaming around in the field. Has high targets. His Branch Manager expects the world from him but doesn't give specific instructions on how to improve. He wants those incentives but seems to be doing only 50-60% a month
-  * Excited to serve customers. See's the opportunity to help them out of poverty or be a part of their dreams.
-  * Worried that he will be left behind in the new IT / Tech economy. Wants to prove to his family that he can do well.
+* User
+  * Field Agent / Feet on street
+      * Simple 10-12th guy. Well trained in the process to giving out a loan.
+      * Works 8 hours on the ground, roaming around in the field. Has high targets. His Branch Manager expects the world from him but doesn't give specific instructions on how to improve. He wants those incentives but seems to be doing only 50-60% a month
+      * Excited to serve customers. See's the opportunity to help them out of poverty or be a part of their dreams. While most have a strong sense of purpose, a few our misguided and will switch immediately when the next opportunity comes their way.
+      * Worried that he will be left behind in the new IT / Tech economy. Wants to prove to his family that he can do well.
+   * Branch Manager
+      * Some who has risen through the ranks definitely.
+      * Slightly poli
+  * Credit Approver     
+      * Someone who has risen through the ranks from the field to the middle/back office
+      * Is hearing a lot of conversation around FinTechs and automation. Worried about his job security. Also, excited about how to level up
+      * Has a developed a strong sense of intuition / domain knowledge about how to assess. Is expecting more from technology. What can you tell me that I don't know already?      
 
 * Lender (Bank or MFI)
   * Generally averse to this segment. Too expensive. Too high-touch. Too risky
@@ -31,7 +47,6 @@ Stakeholders of our Product
 
 ### A recent tweet that makes a lot sense:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The only three things worth doing at a startup:<br>-Make the product better<br>-Sell the product better<br>-Create leverage for either of first two</p>&mdash; Sam Gerstenzang (@gerstenzang) <a href="https://twitter.com/gerstenzang/status/919713909292052482?ref_src=twsrc%5Etfw">October 15, 2017</a></blockquote>
 
 ### Task
 
