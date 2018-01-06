@@ -35,7 +35,7 @@ Look through the current product of Artoo -- feel free to click around:
       * Worried that he will be left behind in the new IT / Tech economy. Wants to prove to his family that he can do well.
    * Branch Manager
       * Some who has risen through the ranks definitely.
-      * Slightly poli
+      * Pressurized to drive sales. Pressed for time as his job is to manage and motivate his people as well.
   * Credit Approver     
       * Someone who has risen through the ranks from the field to the middle/back office
       * Is hearing a lot of conversation around FinTechs and automation. Worried about his job security. Also, excited about how to level up
