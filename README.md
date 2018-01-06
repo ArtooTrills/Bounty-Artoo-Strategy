@@ -45,12 +45,9 @@ Look through the current product of Artoo -- feel free to click around:
   * Generally averse to this segment. Too expensive. Too high-touch. Too risky
   * Realizes that their traditional approach doesn't work. Need a partner like Artoo to help them develop product, policy and process. But find it hard to commit to that. Needs evidence, back-testing of policy etc
 
-### A recent tweet that makes a lot sense:
-
-
 ### Task
 
-Do a short 2-3 page spec for an improvement(s) on Mobile and Web that you would make to that product that addresses all three stakeholders and makes Artoo competitive. Your spec should be written in short paragraphs and bullet points. Include block diagram level architecture details, and UX screenshots, Wireframes and diagrams.
+Do a short 2-3 page spec for an improvement(s) on Mobile and Web that you would make to that product that addresses all three stakeholders and makes Artoo competitive. Your spec should be written in short paragraphs and bullet points. Include block diagram level architecture details, and UX screenshots, wireframes and diagrams as applicable.
 
 We recommend that you follow the outline below, or something similar:
 1. Background
@@ -62,7 +59,7 @@ We recommend that you follow the outline below, or something similar:
  a. Use Cases
  b. Requirements
  
-As guidance on the scope: if your spec were to be implemented, it should take 2-3 devs no longer than 1-2 weeks to ship it. You should be able to complete this assignment in less than 5 hours. We are looking for concise communication and clarity of thought end-to-end.
+As guidance on the scope: if your spec were to be implemented, it should take 2-3 devs no longer than 1-2 weeks to ship it. You should be able to complete this assignment in less than 3 hours. We are looking for concise communication and clarity of thought end-to-end.
 
 Rubric of evaluation:
 1) How much you understand about the domain by looking at these products
